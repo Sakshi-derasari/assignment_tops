@@ -1,0 +1,13 @@
+Q.17 Difference between structure and union.
+
+In the case of a Structure, there is a specific memory location for every input data member. 
+Thus, it can store multiple values of the various members.
+keyword STRUCT is used to define a structure.
+Indivudual member can be accessed at a time.
+
+In the case of a Union, there is an allocation of only one shared memory for all the input data members. 
+Thus, it stores one value at a time for all of its members.
+keyword UNION is used to define a structure.
+only one meber can be accessed at a time.
+
+
