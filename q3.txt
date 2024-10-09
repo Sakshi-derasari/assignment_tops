@@ -1,0 +1,19 @@
+Difference between oop and pop:
+
+OOP is object oriented programming.
+- It is secure.
+- It emphasis in data not on function or procedure.
+- It has bottom up approach.
+- It has 3 accessing modes: public, priivate and protected.
+- It supports inheritance.
+- It supports polymorphism.
+- Adding new data and function easy.
+
+POP is procedure oriented programming.
+- It is not secure.
+- It focuses on function and not on data.
+- It has top down approach.
+- It dont have any specific accessing mode.
+- It does not support inheritance.
+- It does not support polymorphism.
+- Expanding new data and function is not easy.
