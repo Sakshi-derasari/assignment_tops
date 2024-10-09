@@ -15,7 +15,7 @@ void findLargestAndSmallestWords(char *str, char *largest, char *smallest) {
             currentWord[i++] = *p;
             currentLen++;
         } else if (currentLen > 0) { 
-            currentWord[i] = '\0';
+            currentWord[i] = '\0';  
 
             if (currentLen < minLen) {
                 minLen = currentLen;
